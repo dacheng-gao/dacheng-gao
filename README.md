@@ -1,8 +1,8 @@
 ## Hi there
 
-### What I'm doing
+### What I'm focusing
 
-- using PHP to build website and api fast
-- using Linux server to deploy so many kinds of service, often using aliyun ecs and aws ec2
-- learning .NET for its static type and cross platform tech
-- learning go and rust for its safety and high performance
+- building web applications using **PHP**, mostly **Yii2** framework in recent years
+- linux lover, debian as a personal workstation use, aliyun/aws/bare metal as production server
+- learning .NET (core)
+- learning go and rust
