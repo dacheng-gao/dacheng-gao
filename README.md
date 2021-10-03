@@ -1,8 +1,8 @@
 ## Hi there
 
-### What I'm focusing
+### What I'm doing
 
-- building web applications using **PHP**, mostly **Yii2** framework in recent years
-- linux lover, debian as a personal workstation use, aliyun/aws/bare metal as production server
-- learning .NET (core)
-- learning go and rust
+- Using **PHP** to build web applications, mostly using **Yii2** framework in recent years.
+- Learning .NET (core), love its familarity and performance, preparing for the next hop.
+- I'm a programming language enthusiast, like go/java/rust/swift/kotlin etc.
+- Playing linux box everyday, love debian best, and I have a dream to become a kernel developer in someday.
