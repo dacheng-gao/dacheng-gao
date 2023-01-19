@@ -1,6 +1,7 @@
 ## Hi there :)
 
-- Using PHP and Yii2 for years
-- Finding the right tools to solve problems
-- Complementary languages are: C# / Java / Objective-C / C / Golang / Shell / Python
-- And I also have experience in Linux, Aliyun, Jenkins, Gitea, Redmine, AWS, Container, K8s etc.
+- Design and develop enterprise web application using PHP and Yii2;
+- Sovling problems is my first objective;
+- Experience in Jenkins, Gitea, Redmine, Linux, Aliyun and AWS;
+- Familar with C#, Java, Objective-C, Shell, C and others;
+- Never end learning.
