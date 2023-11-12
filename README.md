@@ -1,6 +1,5 @@
 ## Hi there :)
 
-- Design and develop enterprise level applications
-- Fix the real problems
-- Keep learning
-
+- Familar with .NET / PHP / Linux
+- Using the right tools to fix problems at hand
+- Keep learning and exploring of new tech
