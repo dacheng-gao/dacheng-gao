@@ -1,5 +1,6 @@
 ## Hi there :)
 
-- Familar with .NET / PHP / Go / Linux / Cloud / CI/CD
-- Using the right tools to fix problems at hand
-- Keep learning and exploring of new tech
+- Currently using .NET and getting deep into its ecosystem
+- Previously using PHP and lots of frameworks: Yii, Symfony, ThinkPHP, Slim
+- Also familiar with Jenkins, Redmine, Linux, Aliyun, AWS, Azure
+- Keep learning
