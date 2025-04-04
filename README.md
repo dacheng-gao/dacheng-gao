@@ -1,4 +1,4 @@
-## Hi it's Dacheng :)
+## Hi, it's Dacheng :)
 
 There are some things I'm familar with:
 - Building applications using dotnet, java, php.
