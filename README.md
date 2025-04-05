@@ -10,7 +10,8 @@ Learn and Use:
 | [learn cpp](https://github.com/dacheng-learn/cpp) | [my cpp](https://github.com/dacheng-cpp) |
 
 Highlighted Projects:
-- [zig](https://github.com/ziglang/zig)
+- [dotnet/runtime](https://github.com/dotnet/runtime) async2
+- [zig](https://github.com/ziglang/zig) async io resurrection
 - [zigcoro](https://github.com/rsepassi/zigcoro)
 
 I'm familar with:
