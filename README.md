@@ -12,7 +12,7 @@ Learn and Use:
 Highlighted Projects:
 - [dotnet/runtime](https://github.com/dotnet/runtime) (async2 is WIP)
 - [zig](https://github.com/ziglang/zig) (async io is WIP)
-- [zigcoro](https://github.com/rsepassi/zigcoro)
+- [zigcoro](https://github.com/rsepassi/zigcoro) (implement coroutine in userland)
 
 I'm familar with:
 - Building applications using dotnet, java, php.
