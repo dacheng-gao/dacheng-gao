@@ -19,6 +19,6 @@ I'm interested in:
 
 Bookmarks:
 - [learn zig](https://github.com/dacheng-learn/zig), [my zig](https://github.com/dacheng-zig)
-- [learnc](https://github.com/dacheng-learn/c), [my c](https://github.com/dacheng-c)
+- [learn c](https://github.com/dacheng-learn/c), [my c](https://github.com/dacheng-c)
 - [learn cpp](https://github.com/dacheng-learn/cpp), [my cpp](https://github.com/dacheng-cpp)
 - [learn dotnet](https://github.com/dacheng-learn/dotnet), [my dotnet](https://github.com/dacheng-dotnet)
