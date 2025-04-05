@@ -10,9 +10,12 @@ Learn and Use:
 | [learn cpp](https://github.com/dacheng-learn/cpp) | [my cpp](https://github.com/dacheng-cpp) |
 
 Highlighted Projects:
-- [dotnet/runtime](https://github.com/dotnet/runtime) (async2 is WIP)
-- [zig](https://github.com/ziglang/zig) (async io is WIP)
-- [zigcoro](https://github.com/rsepassi/zigcoro) (implement coroutine in userland)
+
+| Project | Hightlights |
+| --- | --- |
+| [dotnet/runtime](https://github.com/dotnet/runtime) | async2 in runtime |
+| [zig](https://github.com/ziglang/zig) | async io, async/await surrection |
+| [zigcoro](https://github.com/rsepassi/zigcoro) | implement coroutine in userland |
 
 I'm familar with:
 - Building applications using dotnet, java, php.
