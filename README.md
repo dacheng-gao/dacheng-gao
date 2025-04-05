@@ -1,10 +1,13 @@
 ## Hi, it's Dacheng :)
 
 Learn and Use:
-- [learn dotnet](https://github.com/dacheng-learn/dotnet), [my dotnet](https://github.com/dacheng-dotnet)
-- [learn zig](https://github.com/dacheng-learn/zig), [my zig](https://github.com/dacheng-zig)
-- [learn c](https://github.com/dacheng-learn/c), [my c](https://github.com/dacheng-c)
-- [learn cpp](https://github.com/dacheng-learn/cpp), [my cpp](https://github.com/dacheng-cpp)
+
+| Learn | Use |
+| --- | --- |
+| [learn dotnet](https://github.com/dacheng-learn/dotnet) | [my dotnet](https://github.com/dacheng-dotnet) |
+| [learn zig](https://github.com/dacheng-learn/zig) | [my zig](https://github.com/dacheng-zig) |
+| [learn c](https://github.com/dacheng-learn/c) | [my c](https://github.com/dacheng-c) |
+| [learn cpp](https://github.com/dacheng-learn/cpp) | [my cpp](https://github.com/dacheng-cpp) |
 
 Highlighted Projects:
 - [zig](https://github.com/ziglang/zig)
