@@ -17,7 +17,7 @@ I'm interested in:
 - Learn dotnet runtime details and how to optimize the performance and memory usage.
 - Learn coroutine and async io for better scalability.
 
-Bookmarks:
+Learn and Practice:
 - [learn zig](https://github.com/dacheng-learn/zig), [my zig](https://github.com/dacheng-zig)
 - [learn c](https://github.com/dacheng-learn/c), [my c](https://github.com/dacheng-c)
 - [learn cpp](https://github.com/dacheng-learn/cpp), [my cpp](https://github.com/dacheng-cpp)
