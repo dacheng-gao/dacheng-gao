@@ -1,6 +1,6 @@
 ## Hi, it's Dacheng :)
 
-There are some things I'm familar with:
+I'm familar with:
 - Building applications using dotnet, java, php.
 - Database design and development using mysql, sqlserver.
 - Linux server administration and cloud services like aws, azure, alibaba cloud.
@@ -13,11 +13,16 @@ My beliefs:
 - Build something you love.
 
 I'm interested in:
-- Learn zig and build something with it.
-- Learn dotnet runtime details and how to optimize the performance and memory usage.
-- Learn coroutine and async io for better scalability.
+- learn English and speak in English.
+- zig language.
+- dotnet runtime detail, debugging, performance optimization.
+- async io for better scalability.
+- threading.
+- networking.
+- data structure and algorithm.
+- operating system.
 
-Learn and Practice:
+Learn and Use:
 - [learn zig](https://github.com/dacheng-learn/zig), [my zig](https://github.com/dacheng-zig)
 - [learn c](https://github.com/dacheng-learn/c), [my c](https://github.com/dacheng-c)
 - [learn cpp](https://github.com/dacheng-learn/cpp), [my cpp](https://github.com/dacheng-cpp)
