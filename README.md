@@ -22,3 +22,7 @@ Learn and Practice:
 - [learn c](https://github.com/dacheng-learn/c), [my c](https://github.com/dacheng-c)
 - [learn cpp](https://github.com/dacheng-learn/cpp), [my cpp](https://github.com/dacheng-cpp)
 - [learn dotnet](https://github.com/dacheng-learn/dotnet), [my dotnet](https://github.com/dacheng-dotnet)
+
+Highlighted Projects:
+- [zig](https://github.com/ziglang/zig)
+- [zigcoro](https://github.com/rsepassi/zigcoro)
