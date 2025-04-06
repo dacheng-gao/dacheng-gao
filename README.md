@@ -15,7 +15,7 @@ Highlighted Projects:
 | --- | --- |
 | [dotnet/runtime](https://github.com/dotnet/runtime) | [runtime async2](https://github.com/dotnet/runtime/pull/113976) |
 | [zig](https://github.com/ziglang/zig) | [fiber and async io](https://github.com/ziglang/zig/tree/async-await-demo) |
-| [zigcoro](https://github.com/rsepassi/zigcoro) | implement coroutine in userland |
+| [zigcoro](https://github.com/rsepassi/zigcoro) | userland coroutine and libxev based async io |
 
 I'm familar with:
 - Building applications using dotnet, java, php.
