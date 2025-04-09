@@ -17,7 +17,7 @@ Highlighted Projects:
 | [zig](https://github.com/ziglang/zig) | [fiber and async io](https://github.com/ziglang/zig/tree/async-await-demo) |
 | [ziro](https://github.com/dacheng-zig/ziro) | fork from zircoro, make coroutine easy to use |
 | [zigcoro](https://github.com/rsepassi/zigcoro) | userland coroutine and libxev based async io |
-| [dotfiles](https://github.com/dacheng-gao/dotfiles) | my own dot config files for linux and macOS |
+| [dotfiles](https://github.com/dacheng-gao/dotfiles) | my config files for linux and macOS |
 
 I'm familar with:
 - Building applications using dotnet, java, php.
