@@ -7,6 +7,7 @@ Learn and Use:
 | [learn/c](https://github.com/dacheng-learn/c) | [dacheng-c](https://github.com/dacheng-c) |
 | [learn/cpp](https://github.com/dacheng-learn/cpp) | [dacheng-cpp](https://github.com/dacheng-cpp) |
 | [learn/dotnet](https://github.com/dacheng-learn/dotnet) | [dacheng-dotnet](https://github.com/dacheng-dotnet) |
+| [learn/rust](https://github.com/dacheng-learn/rust) | [dacheng-rust](https://github.com/dacheng-rust) |
 | [learn/zig](https://github.com/dacheng-learn/zig) | [dacheng-zig](https://github.com/dacheng-zig) |
 
 Highlighted Projects:
