@@ -26,7 +26,7 @@ I'm familar with:
 - CI/CD pipeline using github actions, jenkins, gitea.
 
 I'm interested in:
-- zig language.
+- learn zig, c/cpp, rust.
 - learn English and speak in English.
 - dotnet runtime detail, debugging, performance optimization.
 - async io for better scalability.
