@@ -17,7 +17,7 @@ Highlighted Projects:
 | [dotfiles](https://github.com/dacheng-gao/dotfiles) | my config files for linux and macOS |
 | [dotnet/runtime](https://github.com/dotnet/runtime) | [runtime async2](https://github.com/dotnet/runtime/pull/113976) |
 | [zig](https://github.com/ziglang/zig) | [fiber and async io](https://github.com/ziglang/zig/tree/async-await-demo) |
-| [ziro](https://github.com/dacheng-zig/ziro) | fork from zircoro, make coroutine easy to use |
+| [ziro](https://github.com/dacheng-zig/ziro) | fork from zircoro, make coroutine easy to use in zig |
 
 I'm familar with:
 - Building applications using dotnet, java, php.
