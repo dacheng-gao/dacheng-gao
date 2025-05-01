@@ -4,8 +4,8 @@ My favorites:
 
 | Item | Note |
 | --- | --- |
-| I'm Learning | [zig](https://github.com/dacheng-learn/zig), [dotnet](https://github.com/dacheng-learn/dotnet), [rust](https://github.com/dacheng-learn/rust) |
-| My works | [zig](https://github.com/dacheng-zig), [dotnet](https://github.com/dacheng-dotnet), [rust](https://github.com/dacheng-rust) |
+| I'm Learning | [dotnet](https://github.com/dacheng-learn/dotnet), [zig](https://github.com/dacheng-learn/zig), [rust](https://github.com/dacheng-learn/rust) |
+| My works | [dotnet](https://github.com/dacheng-dotnet), [zig](https://github.com/dacheng-zig), [rust](https://github.com/dacheng-rust) |
 | [dotnet/runtime](https://github.com/dotnet/runtime) | runtime async will be included in NET10 |
 | [zig](https://github.com/ziglang/zig) | zig is better c |
 | [ziro](https://github.com/dacheng-zig/ziro) | fork from zircoro, make coroutine easy to use in zig |
