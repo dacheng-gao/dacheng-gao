@@ -4,9 +4,9 @@ My favorites:
 
 | Item | Note |
 | --- | --- |
-| I'm Learning | [dotnet](https://github.com/dacheng-learn/dotnet), [zig](https://github.com/dacheng-learn/zig), [rust](https://github.com/dacheng-learn/rust) |
-| My works | [dotnet](https://github.com/dacheng-dotnet), [zig](https://github.com/dacheng-zig), [rust](https://github.com/dacheng-rust) |
-| [dotnet/runtime](https://github.com/dotnet/runtime) | runtime async will be included in NET10 |
+| I'm Learning | [learn/dotnet](https://github.com/dacheng-learn/dotnet), [learn/zig](https://github.com/dacheng-learn/zig) |
+| My works | [dacheng-dotnet](https://github.com/dacheng-dotnet), [dacheng-zig](https://github.com/dacheng-zig) |
+| [dotnet/runtime](https://github.com/dotnet/runtime) | runtime async |
 | [ziglang/zig](https://github.com/ziglang/zig) | zig is better c |
 | [dotfiles](https://github.com/dacheng-gao/dotfiles) | my config files for linux and macOS |
 
