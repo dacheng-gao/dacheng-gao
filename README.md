@@ -4,12 +4,12 @@ My favorites:
 
 | Item | Note |
 | --- | --- |
-| Learn | [learn/dotnet](https://github.com/dacheng-learn/dotnet), [learn/zig](https://github.com/dacheng-learn/zig) |
-| Works | [dacheng-dotnet](https://github.com/dacheng-dotnet), [dacheng-zig](https://github.com/dacheng-zig) |
+| [learn/dotnet](https://github.com/dacheng-learn/dotnet) <br/> [learn/zig](https://github.com/dacheng-learn/zig) | Learning makes me happy |
+| [dacheng-dotnet](https://github.com/dacheng-dotnet) <br/> [dacheng-zig](https://github.com/dacheng-zig) | Write what you love |
 | [dotnet/runtime](https://github.com/dotnet/runtime) | runtime async |
 | [ziglang/zig](https://github.com/ziglang/zig) | zig is better c |
 | [dotfiles](https://github.com/dacheng-gao/dotfiles) | my config files for linux and macOS |
-| tinyproxy rewrites | [tinyproxy-net](https://github.com/tinyproxy-net/tinyproxy-net), [tinyproxy-zig](https://github.com/tinyproxy-zig/tinyproxy-zig)|
+| [tinyproxy-net](https://github.com/tinyproxy-net/tinyproxy-net) <br/> [tinyproxy-zig](https://github.com/tinyproxy-zig/tinyproxy-zig) | tinyproxy rewrites |
 
 I'm familar with:
 - Building applications using dotnet, java, php.
