@@ -6,10 +6,10 @@ My favorites:
 | --- | --- |
 | [learn/dotnet](https://github.com/dacheng-learn/dotnet) <br/> [learn/zig](https://github.com/dacheng-learn/zig) | Learning makes me happy |
 | [dacheng-dotnet](https://github.com/dacheng-dotnet) <br/> [dacheng-zig](https://github.com/dacheng-zig) | Write what you love |
+| [tinyproxy-net](https://github.com/tinyproxy-net/tinyproxy-net) <br/> [tinyproxy-zig](https://github.com/tinyproxy-zig/tinyproxy-zig) | Rewrite tinyproxy using what you loved language |
 | [dotnet/runtime](https://github.com/dotnet/runtime) | dotnet can help you build from hobby projects to enterprise applications |
 | [ziglang/zig](https://github.com/ziglang/zig) | Zig is better c |
 | [dotfiles](https://github.com/dacheng-gao/dotfiles) | All my config files |
-| [tinyproxy-net](https://github.com/tinyproxy-net/tinyproxy-net) <br/> [tinyproxy-zig](https://github.com/tinyproxy-zig/tinyproxy-zig) | Rewrite tinyproxy using what you loved language |
 
 I'm familar with:
 - Building applications using dotnet, java, php.
