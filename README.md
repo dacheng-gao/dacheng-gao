@@ -20,16 +20,11 @@ I'm familar with:
 I'm interested in:
 - learn and use zig/c, csharp/dotnet, php/python, js/ts.
 - languages internals.
-- code quality.
-- application debugging.
-- performance.
-- scalability.
-- security.
 - async io and io multiplexing.
-- coroutines.
-- threading.
-- networking.
-- protocols.
+- user-space thread: coroutines.
+- multi-thread programming.
+- socket programming.
+- network protocols.
 - distributed computing.
 - data structure and algorithm.
 - operating system.
