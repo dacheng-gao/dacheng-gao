@@ -4,11 +4,11 @@ My favorites:
 
 | Item | Note |
 | --- | --- |
-| [learn/dotnet](https://github.com/dacheng-learn/dotnet) <br/> [learn/zig](https://github.com/dacheng-learn/zig) | Learning makes me happy |
-| [dacheng-dotnet](https://github.com/dacheng-dotnet) <br/> [dacheng-zig](https://github.com/dacheng-zig) | Write what you love |
-| [tinyproxy-net](https://github.com/tinyproxy-net/tinyproxy-net) <br/> [tinyproxy-zig](https://github.com/tinyproxy-zig/tinyproxy-zig) | Rewrite tinyproxy using what you loved language |
-| [dotnet/runtime](https://github.com/dotnet/runtime) | dotnet can help you build from hobby projects to enterprise applications |
 | [ziglang/zig](https://github.com/ziglang/zig) | Zig is better c |
+| [learn/zig](https://github.com/dacheng-learn/zig) <br/> [learn/dotnet](https://github.com/dacheng-learn/dotnet) | Learning makes me happy |
+| [dacheng-zig](https://github.com/dacheng-zig) <br/> [dacheng-dotnet](https://github.com/dacheng-dotnet) | Write code that you love |
+| [tinyproxy-zig](https://github.com/tinyproxy-zig/tinyproxy-zig) <br/> [tinyproxy-net](https://github.com/tinyproxy-net/tinyproxy-net) | Rewrite tinyproxy using your favorite language |
+| [dotnet/runtime](https://github.com/dotnet/runtime) | dotnet can help you build from hobby projects to enterprise applications |
 | [dotfiles](https://github.com/dacheng-gao/dotfiles) | All my config files |
 
 I'm familar with:
