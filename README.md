@@ -6,8 +6,8 @@ My favorites:
 | --- | --- |
 | [ziglang/zig](https://github.com/ziglang/zig) | Zig Official |
 | [dotnet/runtime](https://github.com/dotnet/runtime) | dotnet runtime |
-| [learn/zig](https://github.com/dacheng-learn/zig) | I'm learning zig |
-| [learn/dotnet](https://github.com/dacheng-learn/dotnet) | I'm learning dotnet |
+| [dacheng-learn/zig](https://github.com/dacheng-learn/zig) | I'm learning zig |
+| [dacheng-learn/dotnet](https://github.com/dacheng-learn/dotnet) | I'm learning dotnet |
 | [dacheng-zig](https://github.com/dacheng-zig) | zig community needs you |
 | [dacheng-dotnet](https://github.com/dacheng-dotnet) | dotnet community needs you |
 | [dacheng-dotnet/wechat-sdk](https://github.com/dacheng-dotnet/wechat-sdk) | wechat sdk for dotnet |
