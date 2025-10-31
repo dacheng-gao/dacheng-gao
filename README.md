@@ -4,6 +4,8 @@ My favorites:
 
 | Item | Note |
 | --- | --- |
+| [dotfiles](https://github.com/dacheng-gao/dotfiles) | All my config files |
+| [yii2-swoole](https://github.com/dacheng-php/yii2-swoole) | Yii2 Swoole extension |
 | [ziglang/zig](https://github.com/ziglang/zig) | Zig Official |
 | [dotnet/runtime](https://github.com/dotnet/runtime) | dotnet runtime |
 | [dacheng-learn/zig](https://github.com/dacheng-learn/zig) | I'm learning zig |
@@ -14,28 +16,22 @@ My favorites:
 | [dacheng-dotnet/alipay-sdk](https://github.com/dacheng-dotnet/alipay-sdk) | alipay sdk for dotnet |
 | [tinyproxy-zig](https://github.com/tinyproxy-zig/tinyproxy-zig) | Rewrite tinyproxy in zig |
 | [tinyproxy-net](https://github.com/tinyproxy-net/tinyproxy-net) | Rewrite tinyproxy in dotnet |
-| [dotfiles](https://github.com/dacheng-gao/dotfiles) | All my config files |
 
 I'm familar with:
-- Building applications using dotnet, java, php.
-- Database design and development using mysql, sqlserver.
-- Linux server administration and cloud services like aws, azure, alibaba cloud.
-- CI/CD pipeline using github actions, jenkins, gitea.
+- Languages: dotnet, java, php
+- Frontend: html, css, vuejs, react, shadcn
+- Database: mysql, sqlserver
+- linux, aws, azure, aliyun
+- CI/CD: jenkins, github actions
+- Team and Project management system: redmine, gitea, jira
 
-I'm interested in:
-- learn and use zig/c, csharp/dotnet, php/python, js/ts.
-- languages internals.
-- async io and io multiplexing.
-- user-space thread: coroutines.
-- multi-thread programming.
-- socket programming.
-- network protocols.
-- distributed computing.
-- data structure and algorithm.
-- operating system.
+I'm exploring more:
+- zig and c, csharp/dotnet, php and swoole
+- async io, coroutine, concurrency model
+- network protocols: http, websocket, mysql, redis, tcp/ip, udp
+- system programming: thread, socket, file, process, signal
 
 My beliefs:
-- Solve real problems.
-- What you get from learning is more important than what you have learnt.
-- Start small and build step by step.
-- Build something you love.
+- Solve real problems
+- Start small and move forward
+- Build something you love
