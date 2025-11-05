@@ -10,12 +10,7 @@ My favorites:
 | [dotnet/runtime](https://github.com/dotnet/runtime) | dotnet runtime |
 | [dacheng-learn/zig](https://github.com/dacheng-learn/zig) | I'm learning zig |
 | [dacheng-learn/dotnet](https://github.com/dacheng-learn/dotnet) | I'm learning dotnet |
-| [dacheng-zig](https://github.com/dacheng-zig) | zig community needs you |
-| [dacheng-dotnet](https://github.com/dacheng-dotnet) | dotnet community needs you |
-| [dacheng-dotnet/wechat-sdk](https://github.com/dacheng-dotnet/wechat-sdk) | wechat sdk for dotnet |
-| [dacheng-dotnet/alipay-sdk](https://github.com/dacheng-dotnet/alipay-sdk) | alipay sdk for dotnet |
 | [tinyproxy-zig](https://github.com/tinyproxy-zig/tinyproxy-zig) | Rewrite tinyproxy in zig |
-| [tinyproxy-net](https://github.com/tinyproxy-net/tinyproxy-net) | Rewrite tinyproxy in dotnet |
 
 I'm familar with:
 - Languages: dotnet, java, php
