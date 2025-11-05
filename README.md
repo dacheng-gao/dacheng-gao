@@ -6,7 +6,7 @@ Here's a quick peek at some of my favorite projects:
 | --- | --- |
 | [dotfiles](https://github.com/dacheng-gao/dotfiles) | My collection of configuration files |
 | [yii2-swoole](https://github.com/dacheng-php/yii2-swoole) | A Swoole extension for Yii2 |
-| [ziro](https://github.com/dacheng-zig/ziro) | Rewriting TinyProxy in Zig Coroutine and Async IO |
+| [ziro](https://github.com/dacheng-zig/ziro) | Zig Coroutine and Async IO |
 | [tinyproxy-zig](https://github.com/tinyproxy-zig/tinyproxy-zig) | Rewriting TinyProxy in Zig |
 
 I have hands-on experience with:
