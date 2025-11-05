@@ -1,30 +1,39 @@
-## Hi, it's Dacheng :)
+## Hi, I'm Dacheng! 👋
 
-My favorites:
+Here's a quick peek at some of my favorite projects:
 
 | Item | Note |
 | --- | --- |
-| [dotfiles](https://github.com/dacheng-gao/dotfiles) | All my config files |
-| [yii2-swoole](https://github.com/dacheng-php/yii2-swoole) | Yii2 Swoole extension |
-| [dacheng-learn/zig](https://github.com/dacheng-learn/zig) | I'm learning zig |
-| [dacheng-learn/dotnet](https://github.com/dacheng-learn/dotnet) | I'm learning dotnet |
-| [tinyproxy-zig](https://github.com/tinyproxy-zig/tinyproxy-zig) | Rewrite tinyproxy in zig |
+| [dotfiles](https://github.com/dacheng-gao/dotfiles) | My collection of configuration files |
+| [yii2-swoole](https://github.com/dacheng-php/yii2-swoole) | A Swoole extension for Yii2 |
+| [dacheng-learn/zig](https://github.com/dacheng-learn/zig) | Notes from my Zig learning journey |
+| [dacheng-learn/dotnet](https://github.com/dacheng-learn/dotnet) | Notes from my .NET learning journey |
+| [tinyproxy-zig](https://github.com/tinyproxy-zig/tinyproxy-zig) | Rewriting TinyProxy in Zig |
 
-I'm familar with:
-- Languages: dotnet, java, php
-- Frontend: html, css, vuejs, react, shadcn
-- Database: mysql, sqlserver
-- linux, aws, azure, aliyun
-- CI/CD: jenkins, github actions
-- Team and Project management system: redmine, gitea, jira
+I have hands-on experience with:
 
-I'm exploring more:
-- zig and c, csharp/dotnet, php and swoole
-- async io, coroutine, concurrency model
-- network protocols: http, websocket, mysql, redis, tcp/ip, udp
-- system programming: thread, socket, file, process, signal
+- **Languages**: .NET, Java, PHP
+- **Frontend**: HTML, CSS, Vue.js, React, shadcn/ui
+- **Databases**: MySQL, SQL Server
+- **Servers & Cloud**: Linux, AWS, Azure, Alibaba Cloud
+- **CI/CD**: Jenkins, GitHub Actions
+- **Project Management Tools**: FRP, Gitea, Jira, Redmine
+- **API Integrations**:
+  - **Banks**: CMB, China Bank, ICBC
+  - **Payment Gateways**: Alipay, WeChat Pay, UnionPay, Stripe
+  - **SMS**: Various providers (e.g., Twilio, AWS SNS)
+  - **Email**: Various providers (e.g., SendGrid, Mailtrap, Mailchimp, Postmark)
+  - **Cloud Storage**: Various providers (e.g., Aliyun OSS, AWS S3, Azure Fileshare)
+  - **Oauth**: Various providers (e.g., Wexin, Alipay, Google, Apple, Facebook)
 
-My beliefs:
-- Solve real problems
-- Start small and move forward
-- Build something you love
+I'm currently exploring:
+
+- **Languages & Frameworks**: Zig and C, C#/.NET, PHP and Swoole, Java and Spring
+- **Concurrency**: Async I/O, coroutines, and concurrency models
+- **System Programming**: Files, processes, signals, threads, and sockets
+- **Network Protocols**: HTTP, WebSocket, MySQL, Redis, TCP/IP, UDP
+
+My guiding principles:
+
+- Start small and iterate forward
+- Solve real-world production challenges
