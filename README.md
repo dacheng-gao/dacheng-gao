@@ -6,8 +6,6 @@ My favorites:
 | --- | --- |
 | [dotfiles](https://github.com/dacheng-gao/dotfiles) | All my config files |
 | [yii2-swoole](https://github.com/dacheng-php/yii2-swoole) | Yii2 Swoole extension |
-| [ziglang/zig](https://github.com/ziglang/zig) | Zig Official |
-| [dotnet/runtime](https://github.com/dotnet/runtime) | dotnet runtime |
 | [dacheng-learn/zig](https://github.com/dacheng-learn/zig) | I'm learning zig |
 | [dacheng-learn/dotnet](https://github.com/dacheng-learn/dotnet) | I'm learning dotnet |
 | [tinyproxy-zig](https://github.com/tinyproxy-zig/tinyproxy-zig) | Rewrite tinyproxy in zig |
