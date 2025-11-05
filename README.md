@@ -6,8 +6,6 @@ Here's a quick peek at some of my favorite projects:
 | --- | --- |
 | [dotfiles](https://github.com/dacheng-gao/dotfiles) | My collection of configuration files |
 | [yii2-swoole](https://github.com/dacheng-php/yii2-swoole) | A Swoole extension for Yii2 |
-| [dacheng-learn/zig](https://github.com/dacheng-learn/zig) | Notes from my Zig learning journey |
-| [dacheng-learn/dotnet](https://github.com/dacheng-learn/dotnet) | Notes from my .NET learning journey |
 | [tinyproxy-zig](https://github.com/tinyproxy-zig/tinyproxy-zig) | Rewriting TinyProxy in Zig |
 
 I have hands-on experience with:
