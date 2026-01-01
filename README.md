@@ -5,6 +5,7 @@ Here's a quick peek at some of my favorite projects:
 | Item | Note |
 | --- | --- |
 | [dotfiles](https://github.com/dacheng-gao/dotfiles) | My collection of configuration files |
+| [ai](https://github.com/dacheng-gao/ai) | My AI toolbox |
 | [yii2-swoole](https://github.com/dacheng-php/yii2-swoole) | A Swoole extension for Yii2 |
 | [ziro](https://github.com/dacheng-zig/ziro) | Zig Coroutine and Async IO |
 | [tinyproxy-zig](https://github.com/tinyproxy-zig/tinyproxy-zig) | Rewriting TinyProxy in Zig |
