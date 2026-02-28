@@ -7,7 +7,7 @@ Favorite projects:
 - [ai](https://github.com/dacheng-gao/ai) — My AI toolbox
 - [yii2-swoole](https://github.com/dacheng-php/yii2-swoole) — A Swoole extension for Yii2
 - [ziro](https://github.com/dacheng-zig/ziro) — Zig Coroutine and Async IO
-- [tinyproxy-zig](https://github.com/tinyproxy-zig/tinyproxy-zig) — Rewriting TinyProxy in Zig
+- [tinyproxy-zig](https://github.com/tinyproxy-org/tinyproxy-zig) — Rewriting TinyProxy in Zig
 
 Hands-on experience:
 - **Languages**: .NET, Java, PHP
