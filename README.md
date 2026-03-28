@@ -3,7 +3,6 @@
 I build practical software with a calm, nature-inspired rhythm: steady, simple, resilient.
 
 Favorite projects:
-- [dotfiles](https://github.com/dacheng-gao/dotfiles) — My collection of configuration files
 - [ai](https://github.com/dacheng-gao/ai) — AI Superagents
 - [yii2-swoole](https://github.com/dacheng-php/yii2-swoole) — A Swoole extension for Yii2
 - [ziro](https://github.com/dacheng-zig/ziro) — Zig Coroutine and Async IO
