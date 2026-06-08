@@ -1,29 +1,27 @@
-## Hi, I'm Dacheng! 👋
+## Hi, this is Dacheng! 👋
 
-I build practical software with a calm, nature-inspired rhythm: steady, simple, resilient.
-
-Favorite projects:
+Highlight Projects:
 - [ai](https://github.com/dacheng-gao/ai) — AI Superagents
 - [yii2-swoole](https://github.com/dacheng-php/yii2-swoole) — A Swoole extension for Yii2
 - [ziro](https://github.com/dacheng-zig/ziro) — Zig Coroutine and Async IO
 - [tinyproxy-zig](https://github.com/tinyproxy-org/tinyproxy-zig) — Rewriting TinyProxy in Zig
 - [tinyproxy-net](https://github.com/tinyproxy-org/tinyproxy-net) — Rewriting TinyProxy in .NET
 
-Hands-on experience:
+Hands-on Experience:
 - **Languages**: .NET, Java, PHP
 - **Frontend**: HTML, CSS, Vue.js, React, shadcn/ui
 - **Databases**: MySQL, SQL Server
-- **Servers & Cloud**: Linux, AWS, Azure, Alibaba Cloud
+- **Servers & Cloud**: Linux, AWS, Azure, Alibaba Cloud, GCP
 - **CI/CD**: Jenkins, GitHub Actions
-- **Project Management Tools**: FRP, Gitea, Jira, Redmine
+- **Project Management Tools**: Gitea, Jira, Redmine
 - **API Integrations**: Banks (CMB, China Bank, ICBC); Payment Gateways (Alipay, WeChat Pay, UnionPay, Stripe); SMS (Twilio, AWS SNS); Email (SendGrid, Mailtrap, Mailchimp, Postmark); Cloud Storage (Aliyun OSS, AWS S3, Azure Fileshare); Oauth (Wexin, Alipay, Google, Apple, Facebook)
 
-Currently exploring:
+Exploring Interesting Things:
+- **Concurrency**: Async I/O
+- **System Programming**: File, Process, Signal, Thread, Socket
+- **Network Protocols**: TCP/IP, UDP; HTTP, WebSocket, QUIC; FTP, SSH, MySQL, PostgreSQL, Redis, MQTT
 - **Languages & Frameworks**: Zig and C, C#/.NET, PHP and Swoole, Java and Spring
-- **Concurrency**: Async I/O, Coroutine, and concurrency model
-- **System Programming**: File, Process, Signal, Thread, and Socket
-- **Network Protocols**: TCP/IP, UDP; HTTP, WebSocket, QUIC; FTP, SSH, MySQL, Redis
 
-Guiding principles:
-- Start small and iterate forward
-- Solve real-world production challenges
+Principles:
+- start before you're ready
+- Solve real problems
